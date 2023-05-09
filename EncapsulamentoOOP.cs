@@ -2,7 +2,7 @@ namespace TestesOOP;
 class Program
 {
     //Primeiro pilar de OOP
-    // Aqui temos um pilar de encapsulamento, onde agrupamos funções e variaves em um objeto
+    // Aqui temos um encapsulamento, onde agrupamos funções e variaves em um objeto
     public class Garrafa
     {   //Propriedades:
         public int Altura { get; set; }
